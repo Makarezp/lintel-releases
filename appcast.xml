@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-    <channel>
-      <title>Lintel</title>
-      <link>https://makarezp.github.io/lintel-releases/appcast.xml</link>
-    </channel>
-  </rss>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Lintel</title>
+    <link>https://makarezp.github.io/lintel-releases/appcast.xml</link>
+    <item>
+      <title>Lintel 1.0 Beta</title>
+      <pubDate>Thu, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/Makarezp/lintel-releases/releases/download/v1.0/Lintel.zip"
+        sparkle:edSignature="Ar5BwWs0PWmn2T/SAPXyKYd5UQrtKaiXoCDY5AHt7WA7RGTpM2TEutzlKm86QWM3l/Z8R6IpF0Bcz0XLUE3CCw=="
+        length="1356793"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
+</rss>
