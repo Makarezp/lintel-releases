@@ -4,6 +4,18 @@
     <title>Lintel</title>
     <link>https://makarezp.github.io/lintel-releases/appcast.xml</link>
     <item>
+      <title>Lintel 1.4</title>
+      <pubDate>Mon, 04 May 2026 20:55:20 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <enclosure
+        url="https://github.com/Makarezp/lintel-releases/releases/download/v1.4/Lintel.zip"
+        sparkle:edSignature="+mx9alD0M7dlmWTw00jhQH3+xMpG5+EWEYQfw5oeV9rlYQKO83LXT/boh2F3Hr3hsRitMC81Zkwf4Xf9kAnsDQ=="
+        length="1641010"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Lintel 1.3</title>
       <pubDate>Mon, 04 May 2026 18:16:52 +0000</pubDate>
       <sparkle:version>4</sparkle:version>
